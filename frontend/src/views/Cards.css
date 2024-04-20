@@ -1,0 +1,139 @@
+.Cards{
+    height: 2125px;
+}
+.mainscreen{
+    background: linear-gradient(91.25deg, rgb(36, 31, 187) 49.989%,rgb(129, 126, 213) 95.479%);
+    height: 259px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.mainscreen img{
+    width: 272px;
+    height: 155px;
+}
+.imgcenter{
+    margin-top: -3px;
+}
+.h1-2{
+    color: rgb(255, 255, 255);
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 49px;
+    margin-left: 145px;
+    margin-top: 81px;
+}
+.ul2{
+    margin-left: 197px;
+}
+.li2{
+    width: 1208px;
+    height: 259px;
+    border-radius: 50px;
+    background: rgb(196, 196, 196);
+    margin-top: 109px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.li2-2{
+    width: 1208px;
+    height: 259px;
+    border-radius: 50px;
+    background: rgb(196, 196, 196);
+    margin-top: 52px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.li2-3{
+    width: 1208px;
+    height: 259px;
+    border-radius: 50px;
+    background: rgb(196, 196, 196);
+    margin-top: 52px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.li2-4{
+    width: 1208px;
+    height: 259px;
+    border-radius: 50px;
+    background: rgb(196, 196, 196);
+    margin-top: 52px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.li2 img{
+margin-top: 30px;
+}
+.li2-2 img{
+    margin-top: 30px;
+}
+.li2-3 img{
+    margin-top: 30px;
+}
+.li2-4 img{
+    margin-top: 30px;
+}
+.li2 button{
+    width: 190px;
+    height: 57px;
+    border-radius: 19px;
+    background: rgb(0, 237, 255);
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 49px;
+    border: none;
+    align-self: center;
+    margin-right: 24px;
+}
+.li2-2 button{
+    width: 190px;
+    height: 57px;
+    border-radius: 19px;
+    background: rgb(0, 237, 255);
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 49px;
+    border: none;
+    align-self: center;
+    margin-right: 24px;
+}
+.li2-3 button{
+    width: 190px;
+    height: 57px;
+    border-radius: 19px;
+    background: rgb(0, 237, 255);
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 49px;
+    border: none;
+    align-self: center;
+    margin-right: 24px;
+}
+.li2-4 button{
+    width: 190px;
+    height: 57px;
+    border-radius: 19px;
+    background: rgb(0, 237, 255);
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 49px;
+    border: none;
+    align-self: center;
+    margin-right: 24px;
+}
+.li2text{
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 49px;
+    width: 360px;
+    height: 98px;
+    text-align: left;
+    margin-left: 82px;
+    align-self: center;
+    margin-right: 24px;
+}

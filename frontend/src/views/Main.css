@@ -1,0 +1,11 @@
+.Main{
+    width: 100%;
+    height: 926px;
+    background: linear-gradient(180.00deg, rgb(255, 255, 255) 50%,rgb(135, 135, 135) 109.233%);
+}
+.Main h1{
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 49px;
+    text-align: left;
+}

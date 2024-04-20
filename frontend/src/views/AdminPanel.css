@@ -1,0 +1,24 @@
+.AdminPanel{
+    height: 855;
+}
+.Sidebar{
+    height: 720px;
+    width: 372px;
+    border-radius: 55px;
+    background: rgb(196, 196, 196);
+}
+.Sidebar h3{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+}
+.Sidebar li{
+    width: 315px;
+    height: 33px;
+    border-radius: 16.5px;
+    background: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 21px;
+}

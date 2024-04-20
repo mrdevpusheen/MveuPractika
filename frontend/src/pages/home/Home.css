@@ -1,0 +1,18 @@
+.firstmenu{
+    width: 898px;
+    height: 302px;
+}
+.DoubleMenus{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 55px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background: rgb(196, 196, 196);
+}
+.secondmenu{
+    width: 414px;
+    height: 302px;
+    border-radius: 55px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background: rgb(196, 196, 196);
+}

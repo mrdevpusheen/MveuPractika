@@ -1,0 +1,7 @@
+.CalculatorContainer{
+    height: 926px;
+}
+.CalculatorContainer input{
+    height: 37px;
+    font-size: 20px;
+}
